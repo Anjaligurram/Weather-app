@@ -1,0 +1,196 @@
+/* .signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cccccc; /* Secondary color 
+    height: 100vh;
+  }
+  
+  .signup-form {
+    background-color: #ffffff; /* White 
+    padding: 1.5rem;
+    border-radius: 0.25rem;
+    width: 25%;
+  }
+  
+  .signup-form h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .signup-form label strong {
+    font-weight: bold;
+  }
+  
+  .signup-form input[type="text"],
+  .signup-form input[type="password"] {
+    width: 100%;
+    border-radius: 0;
+    margin-bottom: 1rem;
+  }
+  
+  .signup-form button {
+    width: 100%;
+    border-radius: 0;
+    margin-bottom: 1rem;
+  }
+  
+  .signup-form button.btn-default {
+    background-color: #f8f9fa; Light gray 
+    border-color: #dee2e6; Light gray 
+    color: #000000; Black 
+  } 
+   
+   .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .whiteBox {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .whiteBox h2 {
+    text-align: center;
+  }
+  
+  .whiteBox form {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .whiteBox form div {
+    margin-bottom: 10px;
+  }
+  
+  .whiteBox form label {
+    display: block;
+  }
+  
+  .whiteBox form input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .whiteBox form button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .whiteBox form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .whiteBox {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px; 
+  }
+  
+  .whiteBox h2 {
+    text-align: center;
+  }
+  
+  .whiteBox form div {
+    margin-bottom: 10px;
+  }
+  
+  .whiteBox form label {
+    display: block;
+  }
+  
+  .whiteBox form input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .whiteBox form button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .whiteBox form button:hover {
+    background-color: #0056b3;
+  }
+  */
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .whiteBox {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px; /* Specify a width for the white box */
+  }
+  
+  .whiteBox h2 {
+    text-align: center;
+  }
+  
+  .formGroup {
+    margin-bottom: 10px;
+  }
+  
+  .formGroup label {
+    display: block;
+  }
+  
+  .formGroup input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .whiteBox form button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .whiteBox form button:hover {
+    background-color: #0056b3;
+  }
+  

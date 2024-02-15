@@ -1,0 +1,83 @@
+/* .card {
+    display: grid;
+    padding: 20px;
+    gap: 50px;
+    grid-template-columns: repeat(3, 1fr); /* Adjusted grid columns
+    width: 100%;
+    height: auto; /* Removed fixed height
+}
+
+.cards {
+    padding: 50px;
+    height: 350px;
+    width: calc(33.33%-50px);
+    display: grid;
+    border: 1px solid black;
+    place-items: center;
+    background: url('') no-repeat center/cover;
+}
+
+
+img{
+    border-radius: 50%;
+    max-width: 100%; 
+    max-height: 100%; 
+    width: auto; 
+    height: auto;
+    
+}
+/* Abo.css 
+.second-page {
+    text-align: center;
+    padding: 20px;
+    
+    border-radius: 5px;
+    margin: 20px;
+   
+  }
+  
+  .second-page h2 {
+    color: #333;
+  }
+  
+  .second-page button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .second-page button:hover {
+    background-color: #0056b3;
+  }
+   */
+   .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .content-text {
+    flex: 1;
+  }
+  
+  .content-image {
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
